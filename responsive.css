@@ -1,0 +1,52 @@
+@media screen and (max-width: 497px) {
+  .loc-fetch-content {
+    display: none;
+  }
+
+  .location-fetch img {
+    margin-right: 20px;
+  }
+
+  .hero-banner-in {
+    height: 10vh;
+  }
+
+  .hero-banner-in h2 {
+    font-size: 1.5rem;
+  }
+
+  .card-section {
+    gap: 30px;
+  }
+
+  .brand-card {
+    width: 140px;
+    height: 195px;
+    border-radius: 10px;
+  }
+
+  .brand-card-content {
+    width: 140px;
+    height: 60px;
+  }
+
+  .brand-card-content h4 {
+    font-size: 14px;
+  }
+
+  .brand-card-content p {
+    display: none;
+  }
+
+  .footer-main {
+    height: auto;
+    flex-direction: column-reverse;
+  }
+
+  .link-column {
+    width: 220px;
+    height: auto;
+    align-items: center;
+    font-size: 12px;
+  }
+}
